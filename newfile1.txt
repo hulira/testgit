@@ -1,2 +1,5 @@
 Welcome to the newfile
 Test : commits
+
+Test 2 : git
+import in hit repo
